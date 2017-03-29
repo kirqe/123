@@ -1,6 +1,6 @@
 # vjsc
 
-Simple title search component for jekyll.
+Title based posts search component for jekyll built with vuejs.
 
 ![](./demo.gif)
 
