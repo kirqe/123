@@ -22,4 +22,4 @@ After them include `search.js`
 ```
 
 
-Then add `post.json` to the root of your project
+Then add `posts.json` to the root of your project
