@@ -1,0 +1,19 @@
+#search {
+
+}
+
+.search-input {
+  width: 500px;
+}
+
+.search-results {
+  padding: 0;
+}
+.search-results-item{
+  list-style: none;
+  margin-bottom: 5px !important;
+}
+
+.search-results .not-found{
+
+}
