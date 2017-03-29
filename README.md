@@ -1,5 +1,3 @@
-# vjekyll-search
-
 Simple title search component for jekyll.
 
 ![](./demo.gif)
