@@ -12,11 +12,13 @@ Add the following html to your page
 <div>
 ```
 
-Include the scripts from the libs folder to at the bottom of your layout file or use cdns.
-And then include `search.js`
+Include the following scripts at the bottom of your layout file.
+After them include `search.js`
 
 ```html
-<script type="text/javascript" src="..."></script>
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.2.6/vue.min.js"></script>
 ```
 
 

@@ -22,7 +22,7 @@ var SearchResults = {
           <a :href="post.url">{{post.title}}</a>
         </li>
       </ul>
-      <span v-if="posts.length === 0 && keyword !== ''" class="not-found">Noththig's found</span>
+      <span v-if="posts.length === 0 && keyword !== ''" class="not-found">Nothing's found</span>
     </div>
   `,
   props: ['posts', 'keyword']
@@ -62,10 +62,5 @@ Vue.component('search', {
 })
 
 new Vue({
-  el: '#search',
-  data () {
-    return {
-
-    }
-  }
+  el: '#search'
 })
